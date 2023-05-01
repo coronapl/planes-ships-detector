@@ -1,0 +1,25 @@
+# MacOS
+.DS_Store
+
+# Executables
+*.out
+*.exe
+*.app
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Editors
+*~
+*.swp
+*.idea
+vscode/
+
+# Dependencies and generated files
+node_modules/
+vendor/
+build/
+*.pyc
+
