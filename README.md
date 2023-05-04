@@ -1,4 +1,4 @@
-# Detecting Planes and Ships in Satellite Images using a CNN
+# Detecting Planes and Ships in Satellite Images Using a CNN
 
 by Pablo Valencia  
 May 4, 2023
